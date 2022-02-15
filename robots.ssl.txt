@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /website/posts
+Disallow: /website/posts/
+Disallow: /website/posts/*
+Disallow: /website/:prestoName/posts
+Disallow: /website/:prestoName/posts/
